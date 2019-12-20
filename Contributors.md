@@ -216,6 +216,7 @@
 - [Chelsea Reynolds] (https://github.com/chelsea1994)
 - [Hung Hilton]
 - [Cory]
+- [blkpeppr]
 - [Alan] (https://github.com/0x416c616e)
 - [Kevin Neely] (https://github.com/kneely)
 - [al co]
